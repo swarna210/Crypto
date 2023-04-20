@@ -1,0 +1,64 @@
+{
+  "coinlist": [
+      {
+        "id": 1,
+        "name": "BTC",
+        "code": "20222 USD",
+        "fullname": "BITCOIN",
+        "p_change1": "1H",
+          "p_change2": "24H",
+          "title": "A peer to peer Microtonic part Subsysytem",
+          "overview":" The lorem ipsum gets its name from the Latin phrase Neque porro quisquam est qui dolorem ipsum quia dolor sit amet. which translates to “Nor is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain.",
+          "background":"The lorem ipsum gets its name from the Latin phrase Neque porro quisquam est qui dolorem ipsum quia dolor sit amet. which translates to “Nor is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain."
+          
+        },
+     {
+        "id": 2,
+        "name": "ETH",
+        "code": "1800 USD",
+        "fullname": "ETH",
+        "p_change1": "1H",
+          "p_change2": "24H",
+          "title": "A peer to peer Microtonic part Subsysytem",
+          "overview":"The lorem ipsum gets its name from the Latin phrase Neque porro quisquam est qui dolorem ipsum quia dolor sit amet. which translates to “Nor is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain.",
+        "background":"The lorem ipsum gets its name from the Latin phrase Neque porro quisquam est qui dolorem ipsum quia dolor sit amet. which translates to “Nor is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain."
+          
+        },
+     {
+        "id": 3,
+        "name": "DOGE",
+        "code": "20222 USD",
+        "fullname": "DOGE",
+        "p_change1": "1H",
+          "p_change2": "24H",
+          "title": "A peer to peer Microtonic part Subsysytem",
+          "overview":"The lorem ipsum gets its name from the Latin phrase Neque porro quisquam est qui dolorem ipsum quia dolor sit amet. which translates to “Nor is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain.",
+    "background":"The lorem ipsum gets its name from the Latin phrase Neque porro quisquam est qui dolorem ipsum quia dolor sit amet. which translates to “Nor is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain."
+          
+        },
+     {
+        "id": 4,
+        "name": "POL",
+        "code": "20222 USD",
+        "fullname": "POL",
+        "p_change1": "1H",
+          "p_change2": "24H",
+          "title": "A peer to peer Microtonic part Subsysytem",
+          "overview":"The lorem ipsum gets its name from the Latin phrase Neque porro quisquam est qui dolorem ipsum quia dolor sit amet. which translates to “Nor is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain.",
+    "background":"The lorem ipsum gets its name from the Latin phrase Neque porro quisquam est qui dolorem ipsum quia dolor sit amet. which translates to “Nor is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain."
+          
+        },
+     {
+        "id": 5,
+        "name": "CHAIN",
+        "code": "20222 USD",
+        "fullname": "CHAIN",
+        "p_change1": "1H",
+          "p_change2": "24H",
+          "title": "A peer to peer Microtonic part Subsysytem",
+          "overview":"React NaReact avec",
+    "background":"React Native esk React avec"
+          
+        }
+    ]
+}
