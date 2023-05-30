@@ -10,7 +10,7 @@ export default function Details({route}){
     const [data, setData] = useState([]);
     
     useEffect(() => {
-        axios.get(`http://192.168.29.192:3000/coinlist/${coinId}`)
+        axios.get(`http://localhost:3000/coinlist/${coinId}`)
           .then(response => {
             setData(response.data);
             console.log("data in details",data)
