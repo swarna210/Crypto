@@ -7,7 +7,7 @@ import Icon from 'react-native-vector-icons/Ionicons'
 export default function Home({navigation}){
     const [data, setData] = useState([]);
     useEffect(() => {
-        fetch('http://192.168.29.192:3000/coinlist')
+        fetch('http://localhost:3000/coinlist')
           .then(response => response.json())
           .then(data => setData(data))
           .catch(error => console.error(error));
